@@ -1,0 +1,64 @@
+Technologies
+-FireBase, Javascript(Angular?, React?, NodeJS?), HTML+CSS, BootStrap, AJAX, JQuery
+
+FireBase
+- Get started
+
+GitHub
+- Set Up Structure
+
+Data Display
+- Google Charts?
+- Users
+	- First Last, Age/Birthday, Ethn, School, Grade, Level, Sport
+		- Hidden Columns
+	- Admin Users/Levels of Acccess
+		- One Main, then that main can add others
+- Within Game
+	- Accuracy by Level
+	- Total Questions
+		- Tracking Number of times to pass level
+		- Reward for completing first try
+	- Music
+	- Shotclock like timer, buzzer when run outta time
+	- Display hints after time
+
+- Language in game
+	- Positive
+	- Sports Centric
+
+- Leaderboard
+	- Different for each category
+	- Overall important
+
+- Points
+	- Speed, Accuracy, Number of Tries
+	- Give up points to use hints. maybe have a baseline points if timer 
+	runs out and still allow an answer, or skip.
+	- Badges, Incentivize
+
+- Design centric
+	- Research making the game engaging
+
+- Notifications
+	- Timed Questions
+	- Email after not playing for a time
+
+Timelines
+---------
+HTML & CSS with correct fields -> database connection ->  Make it Look Nice
+- Landing Page 
+- Log In (Bayar)
+	- Facebook
+	- Google
+	- Email
+- Forget Password (Tyler)
+- Register (Bayar)
+	- Email
+	- Redirect from Facebook Login
+	- Redirect from Google Login
+
+- Profile Page (Mark)
+- Admin Viewing Pages (Web Specific)
+	- players by school
+	- Filters
